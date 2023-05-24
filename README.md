@@ -9,4 +9,5 @@
   - data_preprocessing - предобработка одного файла данных с подробным описанием.
   - loop_create_data - обработка всех данных и создание очищенных данных - data.csv
   - data.csv - очищенные данные для обучения модели.
-  - model - построение моделей (Decision Tree, Random Forest, GBDT)
+  - DT_and_RF - модели Decision Tree и Random Forest.
+  - GBDT - Gradient Boost on Decision Tree различные реализации
